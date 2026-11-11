@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="342" viewBox="0 0 1200 342" role="img" aria-labelledby="title description">
+<title id="title">Hugo Aschenbrenner — Financial Markets × Technology</title>
+<desc id="description">Dark graphite and amber professional header highlighting equity derivatives, structured products, and risk analytics.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B111B"/><stop offset="1" stop-color="#162334"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#C48A3A" stop-opacity=".15"/><stop offset="1" stop-color="#EEC27C" stop-opacity=".8"/></linearGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#6D819A" stroke-width=".65" opacity=".12"/></pattern>
+ <clipPath id="round"><rect width="1200" height="342" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1200" height="342" fill="url(#bg)"/>
+ <rect width="1200" height="342" fill="url(#grid)"/>
+ <path d="M0 341H1200" stroke="#C69A59" stroke-width="3"/>
+ <path d="M72 49H102" stroke="#E2B774" stroke-width="3" stroke-linecap="round"/>
+ <text x="115" y="55" fill="#E6BB7A" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">FINANCIAL MARKETS  /  BUILDING WITH CODE</text>
+ <text x="70" y="130" fill="#F1F4F8" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="800" letter-spacing="1">HUGO</text>
+ <text x="69" y="199" fill="#F1F4F8" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="800" letter-spacing="-1">ASCHENBRENNER</text>
+ <text x="72" y="241" fill="#CFD8E5" font-family="Arial,Helvetica,sans-serif" font-size="21">Equity Derivatives  ·  Structured Products  ·  Risk Analytics</text>
+ <rect x="71" y="274" width="252" height="35" rx="6" fill="#223248" stroke="#435267"/>
+ <text x="89" y="297" fill="#F1C78D" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing=".6">SKEMA  /  MSc FMI</text>
+ <rect x="337" y="274" width="262" height="35" rx="6" fill="#223248" stroke="#435267"/>
+ <text x="355" y="297" fill="#D5DFEC" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing=".6">CFA PROGRAM  /  LEVEL I</text>
+ <line x1="765" y1="46" x2="765" y2="296" stroke="#536783" opacity=".45"/>
+ <rect x="797" y="49" width="359" height="244" rx="12" fill="#0C1726" stroke="#415066" stroke-width="1"/>
+ <text x="823" y="82" fill="#8FA4BC" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">RESEARCH AREAS</text>
+ <rect x="822" y="98" width="309" height="43" rx="6" fill="#16283B"/>
+ <text x="835" y="125" fill="#DFAE66" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">01</text>
+ <text x="872" y="125" fill="#EAF0F7" font-family="Arial,Helvetica,sans-serif" font-size="16">DERIVATIVES</text>
+ <rect x="822" y="151" width="309" height="43" rx="6" fill="#16283B"/>
+ <text x="835" y="178" fill="#DFAE66" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">02</text>
+ <text x="872" y="178" fill="#EAF0F7" font-family="Arial,Helvetica,sans-serif" font-size="16">SCENARIO &amp; RISK</text>
+ <rect x="822" y="204" width="309" height="43" rx="6" fill="#16283B"/>
+ <text x="835" y="231" fill="#DFAE66" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">03</text>
+ <text x="872" y="231" fill="#EAF0F7" font-family="Arial,Helvetica,sans-serif" font-size="16">MARKET TOOLING</text>
+ <path d="M832 267H1130" stroke="url(#line)" stroke-width="2"/>
+ <circle cx="832" cy="267" r="3" fill="#E6B872"/>
+ <circle cx="1130" cy="267" r="3" fill="#E6B872"/>
+</g>
+</svg>
