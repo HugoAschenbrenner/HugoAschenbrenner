@@ -1,32 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-labelledby="title desc">
-<title id="title">Hugo Aschenbrenner — Financial Markets and Technology</title>
-<desc id="desc">Graphite and amber GitHub header with a schematic implied-volatility curve. Equity derivatives, structured products, and market risk.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="342" viewBox="0 0 1200 342" role="img" aria-labelledby="title description">
+<title id="title">Hugo Aschenbrenner — Financial Markets × Technology</title>
+<desc id="description">Dark graphite and amber professional header highlighting equity derivatives, structured products, and risk analytics.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C131D"/><stop offset="1" stop-color="#182739"/></linearGradient>
-<linearGradient id="curve" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#9D743D"/><stop offset=".5" stop-color="#F3C680"/><stop offset="1" stop-color="#DEAE64"/></linearGradient>
-<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#62758A" stroke-width=".6" opacity=".12"/></pattern>
-<clipPath id="clip"><rect width="1200" height="335" rx="16"/></clipPath>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B111B"/><stop offset="1" stop-color="#162334"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#C48A3A" stop-opacity=".15"/><stop offset="1" stop-color="#EEC27C" stop-opacity=".8"/></linearGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#6D819A" stroke-width=".65" opacity=".12"/></pattern>
+ <clipPath id="round"><rect width="1200" height="342" rx="16"/></clipPath>
 </defs>
-<g clip-path="url(#clip)">
-<rect width="1200" height="335" fill="url(#bg)"/>
-<rect width="1200" height="335" fill="url(#grid)"/>
-<rect x="0" y="0" width="9" height="335" fill="#D9A760"/>
-<text x="64" y="48" fill="#E2B675" font-size="14" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="2.4">FINANCIAL MARKETS  ×  TECHNOLOGY</text>
-<text x="62" y="124" fill="#F3F5F7" font-size="64" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing=".7">HUGO</text>
-<text x="61" y="192" fill="#F3F5F7" font-size="57" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1.6">ASCHENBRENNER</text>
-<path d="M63 216H720" stroke="#C69655" stroke-width="2" opacity=".75"/>
-<text x="64" y="256" fill="#D8E1EC" font-size="21" font-family="Arial,Helvetica,sans-serif">Equity Derivatives  ·  Structured Products  ·  Risk</text>
-<text x="64" y="292" fill="#A8B7C9" font-size="16" font-family="Arial,Helvetica,sans-serif">MSc Financial Markets &amp; Investments  /  SKEMA</text>
-<rect x="783" y="38" width="367" height="260" rx="12" fill="#0D1928" stroke="#34475E" stroke-width="1.5"/>
-<text x="805" y="66" fill="#B8C6D6" font-size="11" font-weight="700" letter-spacing="1.8" font-family="Arial,Helvetica,sans-serif">DERIVATIVES / VISUAL MOTIF</text>
-<text x="1101" y="66" fill="#E0B270" font-size="11" font-weight="700" font-family="Arial,Helvetica,sans-serif">IV</text>
-<path d="M815 242H1129M815 88V242" stroke="#7B8DA2" stroke-width="1" opacity=".6"/>
-<path d="M816 129H1127M816 167H1127M816 205H1127" stroke="#64788F" opacity=".22" stroke-dasharray="4 6"/>
-<path d="M822 120 C860 144, 876 201, 949 205 S1055 181, 1121 153" fill="none" stroke="url(#curve)" stroke-width="4" stroke-linecap="round"/>
-<circle cx="949" cy="205" r="5" fill="#F3C680"/>
-<path d="M949 88V242" stroke="#F3C680" stroke-width="1" stroke-dasharray="3 6" opacity=".5"/>
-<text x="815" y="269" fill="#9BAAB9" font-size="11" font-family="Arial,Helvetica,sans-serif">OTM PUTS</text>
-<text x="939" y="269" fill="#DDB77A" font-size="11" font-family="Arial,Helvetica,sans-serif">ATM</text>
-<text x="1044" y="269" fill="#9BAAB9" font-size="11" font-family="Arial,Helvetica,sans-serif">OTM CALLS</text>
-<rect y="332" width="1200" height="3" fill="#D5A15A"/>
-</g></svg>
+<g clip-path="url(#round)">
+ <rect width="1200" height="342" fill="url(#bg)"/>
+ <rect width="1200" height="342" fill="url(#grid)"/>
+ <path d="M0 341H1200" stroke="#C69A59" stroke-width="3"/>
+ <path d="M72 49H102" stroke="#E2B774" stroke-width="3" stroke-linecap="round"/>
+ <text x="115" y="55" fill="#E6BB7A" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">FINANCIAL MARKETS  /  BUILDING WITH CODE</text>
+ <text x="70" y="130" fill="#F1F4F8" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="800" letter-spacing="1">HUGO</text>
+ <text x="69" y="199" fill="#F1F4F8" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="800" letter-spacing="-1">ASCHENBRENNER</text>
+ <text x="72" y="241" fill="#CFD8E5" font-family="Arial,Helvetica,sans-serif" font-size="21">Equity Derivatives  ·  Structured Products  ·  Risk Analytics</text>
+ <rect x="71" y="274" width="252" height="35" rx="6" fill="#223248" stroke="#435267"/>
+ <text x="89" y="297" fill="#F1C78D" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing=".6">SKEMA  /  MSc FMI</text>
+ <rect x="337" y="274" width="262" height="35" rx="6" fill="#223248" stroke="#435267"/>
+ <text x="355" y="297" fill="#D5DFEC" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing=".6">CFA PROGRAM  /  LEVEL I</text>
+ <line x1="765" y1="46" x2="765" y2="296" stroke="#536783" opacity=".45"/>
+ <rect x="797" y="49" width="359" height="244" rx="12" fill="#0C1726" stroke="#415066" stroke-width="1"/>
+ <text x="823" y="82" fill="#8FA4BC" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">RESEARCH AREAS</text>
+ <rect x="822" y="98" width="309" height="43" rx="6" fill="#16283B"/>
+ <text x="835" y="125" fill="#DFAE66" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">01</text>
+ <text x="872" y="125" fill="#EAF0F7" font-family="Arial,Helvetica,sans-serif" font-size="16">DERIVATIVES</text>
+ <rect x="822" y="151" width="309" height="43" rx="6" fill="#16283B"/>
+ <text x="835" y="178" fill="#DFAE66" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">02</text>
+ <text x="872" y="178" fill="#EAF0F7" font-family="Arial,Helvetica,sans-serif" font-size="16">SCENARIO &amp; RISK</text>
+ <rect x="822" y="204" width="309" height="43" rx="6" fill="#16283B"/>
+ <text x="835" y="231" fill="#DFAE66" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">03</text>
+ <text x="872" y="231" fill="#EAF0F7" font-family="Arial,Helvetica,sans-serif" font-size="16">MARKET TOOLING</text>
+ <path d="M832 267H1130" stroke="url(#line)" stroke-width="2"/>
+ <circle cx="832" cy="267" r="3" fill="#E6B872"/>
+ <circle cx="1130" cy="267" r="3" fill="#E6B872"/>
+</g>
+</svg>
