@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Three areas of financial market analysis</title>
+<desc id="desc">Equity volatility and options, rates and FX, and portfolio risk. The decorations are conceptual, not market data.</desc>
+<rect width="1200" height="190" rx="12" fill="#0F1927"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<g>
+<rect x="14" y="14" width="376" height="162" rx="9" fill="#19283A" stroke="#30475B"/>
+<text x="33" y="49" font-size="16" font-weight="700" fill="#E7B774">01 / VOLATILITY</text>
+<text x="33" y="80" font-size="22" font-weight="700" fill="#F0F4F8">OPTIONS &amp; GREEKS</text>
+<text x="33" y="111" font-size="15" fill="#B8C7D9">IV smile · cash Greeks</text>
+<text x="33" y="139" font-size="15" fill="#B8C7D9">Scenario P&amp;L · delta hedge</text>
+</g>
+<g>
+<rect x="412" y="14" width="376" height="162" rx="9" fill="#19283A" stroke="#30475B"/>
+<text x="431" y="49" font-size="16" font-weight="700" fill="#E7B774">02 / MACRO MARKETS</text>
+<text x="431" y="80" font-size="22" font-weight="700" fill="#F0F4F8">RATES &amp; FX</text>
+<text x="431" y="111" font-size="15" fill="#B8C7D9">Yield curves · DV01</text>
+<text x="431" y="139" font-size="15" fill="#B8C7D9">Curve shocks · FX hedges</text>
+</g>
+<g>
+<rect x="810" y="14" width="376" height="162" rx="9" fill="#19283A" stroke="#30475B"/>
+<text x="829" y="49" font-size="16" font-weight="700" fill="#E7B774">03 / PORTFOLIO RISK</text>
+<text x="829" y="80" font-size="22" font-weight="700" fill="#F0F4F8">RISK &amp; SCENARIOS</text>
+<text x="829" y="111" font-size="15" fill="#B8C7D9">VaR / ES · covariance</text>
+<text x="829" y="139" font-size="15" fill="#B8C7D9">PCA · risk attribution</text>
+</g>
+</g></svg>
